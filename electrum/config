@@ -1,0 +1,9 @@
+{
+    "auto_connect": true,
+    "config_version": 2,
+    "rpcpassword": "liIb-l9hSDAmvtailfOS6A==",
+    "rpcuser": "user",
+    "tor_socks_port": 0,
+    "use_fusion": true,
+    "use_virtualkeyboard": true
+}
